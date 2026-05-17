@@ -126,7 +126,8 @@ AI 辅助：DeepSeek AI
 🙏 致谢
 感谢所有测试和使用本工具的朋友，特别感谢 DeepSeek AI 提供的算法优化与技术支持。
 
-# Ring Groove Calculator
+
+### Ring Groove Calculator
 
 [English](#english) | [Chinese](#chinese)
 
