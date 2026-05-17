@@ -82,6 +82,7 @@ G01X13.22F200
 G01X11.80Z-2.91F200
 G0Z20.0
 M30
+```
 
 📊 坐标数据表格
 工具会自动生成关键节点坐标：
@@ -211,6 +212,8 @@ G01X13.22F200
 G01X11.80Z-2.91F200
 G0Z20.0
 M30
+```
+
 📊 Coordinate Data Table
 The tool automatically generates key node coordinates:
 
